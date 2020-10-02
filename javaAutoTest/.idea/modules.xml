@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/autoTest/autoTest.iml" filepath="$PROJECT_DIR$/autoTest/autoTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaAutoTest.iml" filepath="$PROJECT_DIR$/.idea/javaAutoTest.iml" />
     </modules>
   </component>
